@@ -10,7 +10,7 @@
   <packaging>pom</packaging>
 
   <name>PruebaMaven</name>
-  <url>http://www.example.com</url>
+  <url>https://github.com/CarlosGomezFernandez/ISO2-2022-B03</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
